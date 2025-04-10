@@ -16,7 +16,7 @@ Each model was trained and tested on the Titanic dataset to predict survival out
 
 ## 📊 Model Accuracy Comparison
 
-![Model Accuracy Comparison]((https://github.com/RiyaVhora/ML_models/blob/main/Screenshot%202025-04-10%20140230.png?raw=true))
+![Model Accuracy Comparison](https://github.com/RiyaVhora/ML_models/blob/main/Screenshot%202025-04-10%20140230.png?raw=true)
 
 ## Requirements :-
 Common libraries used:
